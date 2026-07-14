@@ -89,7 +89,7 @@ $$
 
 ### 궤적 비교
 
-![trajectory comparison](outputs/trajectory_comparison.png)
+![trajectory comparison](gnss-imu-ekf-localization/outputs/trajectory_comparison.png)
 
 - IMU 단독: 초반에는 GT와 유사하지만 시간이 지날수록 오차가 누적되어 커브 구간에서 점점 벗어남
 - GNSS 단독: 전체적인 경로는 따라가지만 지점마다 노이즈로 인해 궤적이 흔들림
