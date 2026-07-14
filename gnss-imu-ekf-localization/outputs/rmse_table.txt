@@ -1,0 +1,3 @@
+IMU only (Dead Reckoning): 4.471 m
+GNSS only: 4.181 m
+EKF Fusion (GNSS+IMU): 0.907 m
